@@ -1,0 +1,8 @@
+.qodo
+node_modules/
+.PHONY: node_modules
+node_modules
+*.jpg
+*.jpeg
+*.png
+*.mv4

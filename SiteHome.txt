@@ -1,0 +1,25 @@
+ I Want one website for cryptography Resource Manager for institutes;
+ Which is provides News related Cryptography, Cryptology and Cryptanalysis as well;
+ Also this Provides Usefull resources like: Reference book, citations, Presentation (ppts), short notes pdf, video links includes in it
+ Also admin users add Some events on it, also fetch global events regarding topics cryptology;
+ Also make website contains one dashboard which accessible by admin only; admin allow some permission to specific user via dashboard to add contents, remove or update contents like resources, events;
+ Also use next level advanced security for verification login details via otp in mobile or in email in it;
+ 
+ - Above functionality must be satisfied in this websites;
+ 
+ =============================================================================================
+ How this websites build and which components and how looks?
+	1. Make it home page with Large title in center below write paragraph and about usefull details about cryptology and websites;
+	2. also in home page between title and paragraph make it blinking effect and change text steps by step in different colours: 
+			: <cryptology topics which is change after .5 seconds>
+	3. in home page add feature of websites and cryptology in horizontal scroller infinite; also below one more infinite loop where add future use and benifits;
+	4. also make it navbar transparent and make low shadows on it for good looks;
+	5. institute logo on left side and other elements are right sides;
+	6. also make one about webpages
+	7. also make solid and looking good dropdown menu on resources;
+	8. also make it good resources page; 
+	9. use mysql as databases, reactjs, for backend use expressjs
+	10. also use js or jsx in it
+	11. also add pages of projects and in navbar as well also make it drop down menu in it IP, MIP, BTP, IS, Capsone;
+	12. Also add page of lectures in navbar as well
+	

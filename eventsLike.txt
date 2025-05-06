@@ -1,0 +1,41 @@
+Now lets modified events;
+
+1. making two parts on it first by college conduct and another world wide organised events
+
+2. by college conduct events manually add and post by users which is authrised or allowed by admin;
+
+3. in world wide events are fetch from popular sources which gives upto date details upcomming and progressing events
+
+use below resources to fetch all events and show in events page:
+🔹 Step 1: Identify Event Sources
+
+You need structured sources that provide event listings:
+✅ General Event Aggregators
+
+    Google Events Search → https://www.google.com/search?q=cybersecurity+events
+
+    Eventbrite (API available) → https://www.eventbrite.com/
+
+    Meetup (API available) → https://www.meetup.com/
+
+    Lanyrd (Tech Events) → https://lanyrd.com/
+
+    Conference Alerts → https://www.conferencealerts.com/
+
+    10Times (Tech Conferences) → https://10times.com/
+
+✅ Cybersecurity & Tech-Specific
+
+    Black Hat → https://www.blackhat.com/
+
+    DEF CON → https://www.defcon.org/
+
+    RSA Conference → https://www.rsaconference.com/
+
+    The Hacker News Events → https://thehackernews.com/search/label/Events
+
+    BleepingComputer News (Check for upcoming security events)
+
+    Security Conferences Aggregator → https://infosec-conferences.com/
+
+use above resources to fetch events fot sites and show events on pages with time lines and images on cards
